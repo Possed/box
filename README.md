@@ -1,3 +1,2 @@
 # box
-first repository
-I have no will to live.
+This is my very first repository.
